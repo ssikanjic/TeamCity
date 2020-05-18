@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="HansenTechnology"
+      id="e2056c87-ab41-460c-b43b-a9787ea93929"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="HansenTechnology"
+      id="e2056c87-ab41-460c-b43b-a9787ea93929"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="f42e4dd8-f70b-4684-b2a3-a3cecf5a7128"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseAUT"
+	namespace="HansenTechnology.SmokeTest">
+	</codegen>
+	<variables>
+		<var
+		id="25fd6adc-cf52-409d-a843-81fedcfd6279"
+		name="CloseAutProcessIDVar">
+			-1
+		</var>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="500ms"
+		method="CloseWindowByProcessID"
+		optional="False"
+		searchpropertyid="c6cdd1ca-d9c3-4c6e-839d-05546bf2bc14">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ProcessID"
+				variable="CloseAutProcessIDVar">
+				</binding>
+			</bindings>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="e0375b29-6bcb-45d9-9504-87adf1ca4eb1"
+	name="HansenTechnologyRepository"
+	relativepath="..\HansenTechnologyRepository.rxrep">
+		<codegen
+		classname="HansenTechnologyRepository"
+		namespace="HansenTechnology">
+		</codegen>
+		<rootfolder
+		id="3141e777-92dc-4cba-a392-ba9767820573"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

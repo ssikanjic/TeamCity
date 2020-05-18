@@ -1,0 +1,20 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="HansenTechnology.rxtst" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="HansenTechnology.rxtst" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+    <Array name="recentusercodeselections">
+      <Element value="HansenTechnology.SmokeTest.StartAUT.minimize()" />
+      <Element value="HansenTechnology.SmokeTest.StartAUT.minimize()" />
+      <Element value="HansenTechnology.FunctionalTest.DataRecord.acivate()" />
+      <Element value="HansenTechnology.Recording1.maximize()" />
+    </Array>
+  </Properties>
+</Properties>

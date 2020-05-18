@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="8c68e9aa-aa76-451c-ad1d-5ce22f7410e4"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="ResetDataRecord"
+	namespace="HansenTechnology.FunctionalTest">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="20;6"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="12c7492e-fbec-44fc-a993-3a7a014e37bc"
+		sx="708"
+		sy="335"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="f749b6cd-ffd4-48d1-90fb-a827ccbd2be7"
+			sourcename="Recorder">
+				<element
+				capabilities="accessible"
+				dontcache="False"
+				enabled="True"
+				flavor="msaa"
+				hasfocus="False"
+				index="0"
+				prefcap="link"
+				rect="688,329,28,15"
+				role="link"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="text"
+					type="System.String">
+						Reset
+					</attribute>
+					<attribute
+					name="url"
+					type="System.String">
+						Reset
+					</attribute>
+					<attribute
+					name="accessibledefaultaction"
+					type="System.String">
+						Click
+					</attribute>
+					<attribute
+					name="accessiblename"
+					type="System.String">
+						Reset
+					</attribute>
+					<attribute
+					name="accessiblerole"
+					type="System.Windows.Forms.AccessibleRole, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						Link
+					</attribute>
+					<attribute
+					name="accessiblestate"
+					type="System.Windows.Forms.AccessibleStates, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						Focusable
+					</attribute>
+					<attribute
+					name="accessiblevalue"
+					type="System.String">
+						Reset
+					</attribute>
+				</element>
+				<path>
+					/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabIntroduction']/link[@controlname='RxLinkBtnReset']/?/?/link[@accessiblename='Reset']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="e649ed32-1d19-4778-9265-1b33cf157f74">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAB4AHgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpKKKK
+ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+KKKKAKFkkzSRtMZhtgXhiQN3Oc+polSbzppFabKypsAJ27flzx3HWr9FAGU5uTNcFBMuY5BtAfgj
+7uCTjJ9hT5YJgJtslwcQh0+duX5/wHHT2rSooAzv351DMkkiLldoEblSMc8g7RznqK0aKKACiiig
+AooooAKKKKACiiigAooooAKKKKACiiigArMv57v+0o7a1lCb0zyBjPPt7Vp1mT/8jDbf9cz/AOzV
+Mtjeha7bXRh5Gsf8/UP5f/Y0eRrH/P1D+X/2NWXXNw5KgfOvz9xwKeJZWZ9qAqCQOnUfj/Sq9n5k
+fWH/ACr7in5Gsf8AP1D+X/2NNhmvotUit7mZXDqWIUD0Pt7VLFeXDyqhVDvMm0BcEbG2nOTznOfb
+3qBix8RQ7+uzp6fKeKlxtrc1p1Oe6cVs+hr0UUVRzBRRRQAUUUUAFFFFABRRRQAVj6hOttrUEzgl
+Vj5A6/xCtiik1c0pzUHdq5kNq9sxb/j4w3UbEpn9oxTTIkKs0kjbcy7EHQ9wD9PxrapssayxPHIM
+o6lWHqDTTl3CTpNaR/EyY7I3dpnYoKi4VBIBlHMnB44GMHkfhTxaNBqkMu5tnmGKNWO75fLJznr1
+3Dn29Ku2THyTG+PMiYrJgYyeu7jjkEN+NJJ+9v4U7QqZW9icqv4Eb/yH4j1ITcdizRRRQIKKKKAC
+iiigAooooAKKKKACiiigAooooAgksrWVy8ttC7nqzRgk0+G3gt8+RDHFu67FC5/KpKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigD//2Q==
+			</helperscreenshot>
+		</mouseitem>
+	</recorditems>
+	<repository
+	id="e0375b29-6bcb-45d9-9504-87adf1ca4eb1"
+	name="HansenTechnologyRepository"
+	relativepath="..\HansenTechnologyRepository.rxrep">
+		<codegen
+		classname="HansenTechnologyRepository"
+		namespace="HansenTechnology">
+		</codegen>
+		<rootfolder
+		id="3141e777-92dc-4cba-a392-ba9767820573"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		ResetDataRecord.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

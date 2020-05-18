@@ -1,0 +1,18 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{FE5E2FC6-43A2-44BF-B450-DE92132B94A6}</string>
+      <string>6e12a760-6636-488c-b3e9-7d256aa61ae5</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+      <string>92aad3ad-2198-443d-8c8c-a9511b1320f5</string>
+      <string>3454f759-40b5-41e0-8973-6f563434169e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution HansenTechnology[Solution Items[]HansenTechnology[]]]&#xD;&#xA;Solution HansenTechnology&#xD;&#xA;Solution HansenTechnology" />
+  <StartupProject value="{FE5E2FC6-43A2-44BF-B450-DE92132B94A6}" />
+</Properties>
